@@ -1,0 +1,2 @@
+class AlgorithmsService():
+    pass
